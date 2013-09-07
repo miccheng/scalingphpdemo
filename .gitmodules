@@ -1,0 +1,21 @@
+[submodule "modules/apache"]
+	path = modules/apache
+	url = https://github.com/puppetlabs/puppetlabs-apache.git
+[submodule "modules/composer"]
+	path = modules/composer
+	url = https://github.com/willdurand/puppet-composer.git
+[submodule "modules/stdlib"]
+	path = modules/stdlib
+	url = https://github.com/puppetlabs/puppetlabs-stdlib.git
+[submodule "modules/php"]
+	path = modules/php
+	url = https://github.com/thias/puppet-php.git
+[submodule "modules/mysql"]
+	path = modules/mysql
+	url = https://github.com/puppetlabs/puppetlabs-mysql.git
+[submodule "modules/concat"]
+	path = modules/concat
+	url = https://github.com/puppetlabs/puppetlabs-concat.git
+[submodule "data/webgrind"]
+	path = data/webgrind
+	url = https://github.com/jokkedk/webgrind.git
