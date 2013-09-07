@@ -1,0 +1,1 @@
+ab -n 100 -c 10 http://192.168.56.101/loadtest/public/users
